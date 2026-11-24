@@ -1,0 +1,70 @@
+
+{
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Río de Janeiro",
+      "country": "Brasil",
+      "description": "Descubre las playas, montañas y la energía de una de las ciudades más famosas de Brasil.",
+      "activities": [
+        "Visitar el Cristo Redentor",
+        "Conocer el Pan de Azúcar",
+        "Disfrutar de Copacabana"
+      ],
+      "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=900",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "name": "París",
+      "country": "Francia",
+      "description": "Una ciudad llena de historia, arquitectura, gastronomía y cultura.",
+      "activities": [
+        "Visitar la Torre Eiffel",
+        "Recorrer el Museo del Louvre",
+        "Pasear por Montmartre"
+      ],
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=900",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "name": "Tokio",
+      "country": "Japón",
+      "description": "Experimenta la combinación perfecta entre tradición japonesa y tecnología moderna.",
+      "activities": [
+        "Visitar Shibuya",
+        "Conocer el templo Senso-ji",
+        "Explorar Akihabara"
+      ],
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=900",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "name": "Cancún",
+      "country": "México",
+      "description": "Disfruta de playas paradisíacas, aguas cristalinas y cultura maya.",
+      "activities": [
+        "Visitar Chichén Itzá",
+        "Explorar Isla Mujeres",
+        "Disfrutar de sus playas"
+      ],
+      "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?w=900",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "name": "Santiago",
+      "country": "Chile",
+      "description": "Descubre la capital chilena, sus barrios, gastronomía y paisajes cordilleranos.",
+      "activities": [
+        "Visitar el Cerro San Cristóbal",
+        "Recorrer el centro histórico",
+        "Conocer el Cajón del Maipo"
+      ],
+      "image": "https://images.unsplash.com/photo-1531968455001-5c5272a41129?w=900",
+      "featured": false
+    }
+  ]
+}
